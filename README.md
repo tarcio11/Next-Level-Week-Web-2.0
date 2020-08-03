@@ -22,7 +22,7 @@ A NLW é uma experiência online criada pela Rocketseat de uma semana com muito 
 
 <h2 align="center"> 📷 Screenshot da home page do projeto: </h2>
 <p align="center">
-<img width="600" src="./src/assets/images/wallpapers/home.png">
+<img width="600" src="./src/assets/images/wallpapers/Home.png">
 </p>
 
 <h3 align="center"> 📷 Screenshot da Listagem de professores page do projeto: </h3>
